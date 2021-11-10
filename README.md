@@ -17,7 +17,7 @@ Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  De
     <a href="https://github.com/sloisy" target="_blank"><img src="https://shields.io/badge/Sloisy-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~sloisy" target="_blank"><img src="https://shields.io/badge/Sloisy-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://sloisy.xy" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/jbatuq/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use

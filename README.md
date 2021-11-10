@@ -7,7 +7,7 @@ Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  De
 </div>
 
 <div align="center">
-    <a href="(https://lanyard-profile-readme.vercel.app/api/451059836172501013)](https://discord.com/users/451059836172501013)"></a>
+    <a href="https://discord.com/users/451059836172501013" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/451059836172501013"></a>
 </div>
 
 ## ⚡ Contact

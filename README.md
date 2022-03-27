@@ -1,7 +1,7 @@
 
 ## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=byzasn&label=Numbers%20of%20visitors&color=ff4600" alt="sloisy" />
 
-- ⭐ Hi, I'm Sloisy. I am 17 years old. I've been using Discord for about 3 years. I started developing bots on Discord 2.5 year ago. Apart from bot development, I like watching movies , listening to music and to sleep. Developing bots on Discord was a phase and I want to go further. You can easily find me on Discord with the tag **[Sloisy#0666](https://discord.com/users/451059836172501013)**. See you , byzas love you !
+- ⭐ Hi, I'm Sloisy. I am 17 years old. I've been using Discord for about 3 years. I started developing bots on Discord 2.5 year ago. Apart from bot development, I like watching movies , listening to music and to sleep. Developing bots on Discord was a phase and I want to go further. You can easily find me on Discord with the tag **[Sloisy#0666](https://discord.com/users/451059836172501013)**. See you , sloisy love you !
 
 
  

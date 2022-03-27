@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitch.tv/sloisy" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://open.spotify.com/user/ooy6tj4hbrxfxmjoq2xdbnia4" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://discord.com/users/451059836172501013" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/451059836172501013" target"blank_"><img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black"></a>
  <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 

@@ -1,32 +1,27 @@
-# ✨ Hi, I am Sloisy
+## Hello Github! <img src="https://cdn.discordapp.com/emojis/906492197803814923.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=sloisy&label=Numbers%20of%20visitors&color=ff4600" alt="byzasn" />
 
-Cloud Security Engineer  |  Cyber Security Specialist  |  Discord Bot Developer  |  Designer
+- ⭐ Hi, I'm Sloisy. I am 17 years old. I've been using Discord for about 3 years. I started developing bots on Discord 2.5 year ago. Apart from bot development, I like watching movies , listening to music and to sleep. Developing bots on Discord was a phase and I want to go further. You can easily find me on Discord with the tag **[Sloisy#0666](https://discord.com/users/451059836172501013)**
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sloisy&color=dc143c"/>
-</div>
 
-<div align="center">
-    <a href="https://discord.com/users/451059836172501013" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-4/451059836172501013.png"></a>
-</div>
+ 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/451059836172501013?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/451059836172501013)
 
-## ⚡ Contact
+## 🔧 Languages and Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-    <a href="https://discord.com/users/451059836172501013" target="_blank"><img src="https://shields.io/badge/Sloisy-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/sloisy" target="_blank"><img src="https://shields.io/badge/Sloisy-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~sloisy" target="_blank"><img src="https://shields.io/badge/Sloisy-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://www.instagram.com/jbatuq/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
-</div>
+## 📱 Social Media Accounts
+<p align="left">
+<a href="https://twitch.tv/sloisy" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://open.spotify.com/user/ooy6tj4hbrxfxmjoq2xdbnia4" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://discord.com/users/451059836172501013" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-## 💻 Technologies I Use
+<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/906494323653226507.png" high="25px" width="40px"> © Byzas & Pokes</h1>
 
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-</div>
 
 ## 📈 Github Stats
 

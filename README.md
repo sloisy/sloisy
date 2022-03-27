@@ -20,7 +20,7 @@
  <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/906494323653226507.png" high="25px" width="40px"> © Byzas & Pokes</h1>
+<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/906494323653226507.png" high="25px" width="40px"> © Sloisy</h1>
 
 
 ## 📈 Github Stats

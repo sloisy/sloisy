@@ -4,7 +4,7 @@
 - ⭐ Hi, I'm Sloisy. I am 17 years old. I've been using Discord for about 3 years. I started developing bots on Discord 2.5 year ago. Apart from bot development, I like watching movies , listening to music and to sleep. Developing bots on Discord was a phase and I want to go further. You can easily find me on Discord with the tag **[Sloisy#0666](https://discord.com/users/451059836172501013)**. See you , sloisy love you !
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/451059836172501013?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/451059836172501013)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/451059836172501013?theme=light&bg=5b5b5b&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/451059836172501013)
 
 
 ## 🔧 Languages and Tools

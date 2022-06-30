@@ -3,7 +3,7 @@
 [![GitHub Sloisy](https://img.shields.io/github/followers/sloisy?label=follow&style=social)](https://github.com/sloisy)&nbsp;
 <a href="https://instagram.com/jbatuq"><img src="https://img.shields.io/badge/@jbatuq-000000?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/451059836172501013?theme=dark&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/451059836172501013)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/451059836172501013?theme=dark&bg=1c1c1c&animated=false&hideDiscrim=true&borderRadius=30p&hideBadges=false)](https://discord.com/users/451059836172501013)
 
 
 ## Langauges I Know:
